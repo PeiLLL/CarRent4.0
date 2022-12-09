@@ -18,7 +18,7 @@ Scanner input = new Scanner(System.in);
         DoCar d = new DoCar();
         while (true) {
             System.out.println("欢迎来到汽车租赁系统，请选择：");
-
+            System.out.println("ceshi");
             System.out.println("");
 
             System.out.println("0.管理员     1.用户");
